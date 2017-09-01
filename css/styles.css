@@ -203,6 +203,10 @@ body {
 		background-position: -40px -190px;
 		width: 10px;
 	}
+
+	.hide-element {
+		display: none;
+	}
 	.action-more {
 		background-position: -280px -190px;
 		width: 15px;
@@ -219,6 +223,10 @@ body {
 			font-weight: bold;
 			font-size: 14px;
 			text-align: left;
+		}
+
+		.hideelement {
+
 		}
 		.users-interact, .retweets, .favorites {
 			display: inline-block;
